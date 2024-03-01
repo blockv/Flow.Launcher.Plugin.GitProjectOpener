@@ -1,0 +1,12 @@
+{
+    "ID": "9944CC82D93A46A996A59BBE82681ECE",
+    "ActionKeyword": "op",
+    "Name": "GitProjectOpener",
+    "Description": "",
+    "Author": "blockv",
+    "Version": "0.0.1",
+    "Language": "csharp",
+    "Website": "https://github.com/blockv/Flow.Launcher.Plugin.GitProjectOpener",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.GitProjectOpener.dll"
+}
